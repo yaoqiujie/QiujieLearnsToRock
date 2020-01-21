@@ -8,6 +8,7 @@
 
 .. toctree::
    :maxdepth: 2
+
    Python <Python/index>
    Github <Github/index>
 
